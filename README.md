@@ -4,3 +4,5 @@ Features
 - Map bug fixes
 - Entity removal
 - Gameplay tweaks
+
+Feel free to use
